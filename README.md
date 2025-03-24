@@ -1,8 +1,8 @@
 # FedCache
 
-This repository is the official Pytorch implementation DEMO of **FedCache**:
+This repository is the official Pytorch implementation DEMO of **FedNLPCache**:
 
-[**FedCache: A Knowledge Cache-driven Federated Learning Architecture for Personalized Edge Intelligence**.](https://arxiv.org/abs/2308.07816) *arXiv preprint arXiv:2308.07816.* 2023
+[**FedNLPCache: Personalized Text Classification Based on Cache Driven Federated Learning**.]
 
 --------------------------
 ## Requirements:
@@ -18,19 +18,8 @@ This repository is the official Pytorch implementation DEMO of **FedCache**:
 
 -------
 
-## Cite this work
-```bibtex
-@article{wu2023fedcache,
-  title={FedCache: A Knowledge Cache-driven Federated Learning Architecture for Personalized Edge Intelligence},
-  author={Wu, Zhiyuan and Sun, Sheng and Wang, Yuwei and Liu, Min and Xu, Ke and Wang, Wen and Jiang, Xuefeng and Gao, Bo and Lu, Jinda},
-  journal={arXiv preprint arXiv:2308.07816},
-  year={2023}
-}
-```
-
--------
-
 ## Related Works
+[A Knowledge Cache-driven Federated Learning Architecture for Personalized Edge Intelligence.]
 
 [FedICT: Federated Multi-task Distillation for Multi-access Edge Computing.](https://ieeexplore.ieee.org/abstract/document/10163770/) *IEEE Transactions on Parallel and Distributed Systems (TPDS).* 2023
 
@@ -40,4 +29,4 @@ This repository is the official Pytorch implementation DEMO of **FedCache**:
 
 ## Thanks
 
-We thank Xuefeng Jiang for his guidance and suggestions on this repository.
+We thank Zhiyuan Wu for his guidance and suggestions on this repository.
