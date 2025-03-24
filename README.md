@@ -1,4 +1,4 @@
-# FedCache
+# FedNLPCache
 
 This repository is the official Pytorch implementation DEMO of **FedNLPCache**:
 
