@@ -19,7 +19,7 @@ This repository is the official Pytorch implementation DEMO of **FedNLPCache**:
 -------
 
 ## Related Works
-[A Knowledge Cache-driven Federated Learning Architecture for Personalized Edge Intelligence.]
+[A Knowledge Cache-driven Federated Learning Architecture for Personalized Edge Intelligence.](https://ieeexplore.ieee.org/document/10420495/)
 
 [FedICT: Federated Multi-task Distillation for Multi-access Edge Computing.](https://ieeexplore.ieee.org/abstract/document/10163770/) *IEEE Transactions on Parallel and Distributed Systems (TPDS).* 2023
 
